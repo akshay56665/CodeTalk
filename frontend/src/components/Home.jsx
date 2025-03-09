@@ -84,15 +84,6 @@ function Home() {
           </form>
         </div>
       </div>
-
-      <footer className="mt-auto text-center">
-        <h4>
-          Build by{" "}
-          <Link to={"https://github.com/akshay56665"} className="text-blue-600">
-            Akshay Thakur
-          </Link>
-        </h4>
-      </footer>
     </div>
   );
 }
